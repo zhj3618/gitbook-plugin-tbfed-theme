@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-tbfed-theme",
+  "description": "淘宝前端专用主题",
+  "main": "index.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "zhj3618",
+    "email": "zhj3618@gmail.com"
+  },
+  "keywords": [
+    "gitbook",
+    "gitbook-plugin",
+    "footer",
+    "theme"
+  ],
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "Apache 2"
+}
