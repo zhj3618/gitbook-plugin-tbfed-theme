@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-tbfed-theme",
-  "description": "淘宝前端专用主题",
+  "description": "只是一个主题而已",
   "main": "index.js",
   "version": "0.0.1",
   "author": {
@@ -16,7 +16,11 @@
   "engines": {
     "gitbook": ">=2.4.3"
   },
-  "homepage": "",
+  "homepage": "https://github.com/zhj3618/gitbook-plugin-tbfed-theme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhj3618/gitbook-plugin-tbfed-theme.git "
+  },
   "repository": {
     "type": "git",
     "url": ""
